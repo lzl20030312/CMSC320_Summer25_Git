@@ -8,3 +8,7 @@ Q2: What field could data science be applied to? Give an Example.
 
 Q3: What is the difference between Merging and Rebasing?
  Merging preserves the history but rebasing rewrites the history
+
+
+Q4: What are you looking forward to this semester?
+ I look forward to learn new materials
