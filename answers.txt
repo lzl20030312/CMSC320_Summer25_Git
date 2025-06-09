@@ -4,3 +4,7 @@ Q1: Why might we consider using Git?
 
 Q2: What field could data science be applied to? Give an Example.
  Machine Learning
+
+
+Q3: What is the difference between Merging and Rebasing?
+ Merging preserves the history but rebasing rewrites the history
